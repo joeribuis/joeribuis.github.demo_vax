@@ -2,4 +2,4 @@
 This is a demo version of the vax readiness repository
 
 
-theme: jekyll-theme-Architect
+theme:jekyll-theme-architect
